@@ -1,0 +1,9 @@
+.slds-button_icon {
+  border: 1svb; /* No border */
+  color: #0070d2; /* Set a visible color for the icon */
+}
+
+.slds-button_icon:hover {
+  color: #0056a0; /* Change color on hover */
+}
+

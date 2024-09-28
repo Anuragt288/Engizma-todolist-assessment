@@ -16,7 +16,7 @@ Here you can add a photo showing how to add a task:
 ## Edit Task
 Here you can add a photo showing how to edit a task:
 
-![Edit Task](link-to-your-edit-task-image)
+![Edit Task](C:\Users\anura\OneDrive\Desktop\Screenshots)
 
 ## Postman Links
 1. [Add Task](http://localhost:8000/tasks/add)

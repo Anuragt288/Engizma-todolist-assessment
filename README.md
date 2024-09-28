@@ -1,6 +1,13 @@
-# Project Title
-A brief description of your project goes here.
+# To-Do-List
+In this project, I have created three branches:
 
+1. Frontend Branch (React): This branch handles the frontend, which is developed using React for building the user interface and managing tasks such as creating, updating, and deleting items in the To-Do list.
+
+
+2. Master Branch (Node.js): The master branch contains the backend built with Node.js, handling the server-side logic and API operations.
+
+
+3. Postman Link and Screenshots: A Postman collection link is attached for API testing, along with screenshots for better reference.
 ## Add Task
 Here you can add a photo showing how to add a task:
 
